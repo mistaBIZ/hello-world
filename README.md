@@ -1,2 +1,3 @@
-# hello-world
-Just another repo
+# Hello GITHUB 
+
+This is exciting..
